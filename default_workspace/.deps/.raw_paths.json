@@ -1,0 +1,15 @@
+{
+  "@openzeppelin/contracts@4.9.6/token/ERC721/ERC721.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/token/ERC721/ERC721.sol",
+  "@openzeppelin/contracts@4.9.6/token/ERC721/IERC721.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/token/ERC721/IERC721.sol",
+  "@openzeppelin/contracts@4.9.6/utils/introspection/IERC165.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/introspection/IERC165.sol",
+  "@openzeppelin/contracts@4.9.6/token/ERC721/IERC721Receiver.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/token/ERC721/IERC721Receiver.sol",
+  "@openzeppelin/contracts@4.9.6/token/ERC721/extensions/IERC721Metadata.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/token/ERC721/extensions/IERC721Metadata.sol",
+  "@openzeppelin/contracts@4.9.6/utils/Address.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/Address.sol",
+  "@openzeppelin/contracts@4.9.6/utils/Context.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/Context.sol",
+  "@openzeppelin/contracts@4.9.6/utils/Strings.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/Strings.sol",
+  "@openzeppelin/contracts@4.9.6/utils/math/Math.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/math/Math.sol",
+  "@openzeppelin/contracts@4.9.6/utils/math/SignedMath.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/math/SignedMath.sol",
+  "@openzeppelin/contracts@4.9.6/utils/introspection/ERC165.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/introspection/ERC165.sol",
+  "@openzeppelin/contracts@4.9.6/access/Ownable.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/access/Ownable.sol",
+  "@openzeppelin/contracts@4.9.6/utils/Base64.sol": ".deps/npm/@openzeppelin/contracts@4.9.6/utils/Base64.sol"
+}
